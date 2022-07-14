@@ -4,6 +4,9 @@ body {
 }
 
 h1 {
+  padding-top: 70px;
+  border-bottom-width: 50px;
+  padding-bottom: 40px;
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -17,6 +20,7 @@ footer {
 }
 
 .containe{
+  margin-top: 40px;
   padding-left: 30px;
   padding-right: 30px;
 }
